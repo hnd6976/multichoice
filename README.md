@@ -68,59 +68,59 @@
 2. Home screen
    <div>
         <div style="display: flex; flex-direction: row">
-            <img  src="./demo/Picture33.png" alt="drawing" width="150"/>
+            <img  src="./demo/Picture33.png" alt="drawing" width="200"/>
             <div style="width:20px"> </div>
-            <img src="./demo/Picture34.png" alt="drawing" width="150"/>
+            <img src="./demo/Picture34.png" alt="drawing" width="200"/>
         </div>
         <div style="height:20px"> </div>
         <div style="display: flex; flex-direction: row">
-            <img  src="./demo/Picture35.png" alt="drawing" width="150"/>
+            <img  src="./demo/Picture35.png" alt="drawing" width="200"/>
             <div style="width:20px"> </div>
-            <img src="./demo/Picture36.png" alt="drawing" width="150"/>
+            <img src="./demo/Picture36.png" alt="drawing" width="200"/>
         </div>
     </div>
 3. Document screen
     <div>
         <div style="display: flex; flex-direction: row">
-            <img  src="./demo/Picture37.png" alt="drawing" width="150"/>
+            <img  src="./demo/Picture37.png" alt="drawing" width="200"/>
             <div style="width:20px"> </div>
-            <img src="./demo/Picture38.png" alt="drawing" width="150"/>
+            <img src="./demo/Picture38.png" alt="drawing" width="200"/>
         </div>
         <div style="height:20px"> </div>
         <div style="display: flex; flex-direction: row">
-            <img  src="./demo/Picture39.png" alt="drawing" width="150"/>
+            <img  src="./demo/Picture39.png" alt="drawing" width="200"/>
         </div>
     </div>
 4. Take exam screen
    <div>
         <div style="display: flex; flex-direction: row">
-            <img  src="./demo/Picture40.png" alt="drawing" width="150"/>
+            <img  src="./demo/Picture40.png" alt="drawing" width="200"/>
             <div style="width:20px"> </div>
-            <img src="./demo/Picture41.png" alt="drawing" width="150"/>
+            <img src="./demo/Picture41.png" alt="drawing" width="200"/>
         </div>
         <div style="height:20px"> </div>
         <div style="display: flex; flex-direction: row">
-            <img  src="./demo/Picture42.png" alt="drawing" width="150"/>
+            <img  src="./demo/Picture42.png" alt="drawing" width="200"/>
             <div style="width:20px"> </div>
-            <img  src="./demo/Picture43.png" alt="drawing" width="150"/>
+            <img  src="./demo/Picture43.png" alt="drawing" width="200"/>
         </div>
         <div style="height:20px"> </div>
         <div style="display: flex; flex-direction: row">
-            <img  src="./demo/Picture44.png" alt="drawing" width="150"/>
+            <img  src="./demo/Picture44.png" alt="drawing" width="200"/>
             <div style="width:20px"> </div>
-            <img  src="./demo/Picture45.png" alt="drawing" width="150"/>
+            <img  src="./demo/Picture45.png" alt="drawing" width="200"/>
         </div>
  </div>
 5. asdasd
    <div>
         <div style="display: flex; flex-direction: row">
-            <img  src="./demo/Picture46.png" alt="drawing" width="150"/>
+            <img  src="./demo/Picture46.png" alt="drawing" width="200"/>
             <div style="width:20px"> </div>
-            <img src="./demo/Picture47.png" alt="drawing" width="150"/>
+            <img src="./demo/Picture47.png" alt="drawing" width="200"/>
         </div>
         <div style="height:20px"> </div>
         <div style="display: flex; flex-direction: row">
-            <img  src="./demo/Picture48.png" alt="drawing" width="150"/>
+            <img  src="./demo/Picture48.png" alt="drawing" width="200"/>
         </div>
     </div>  
 6. asdasd
