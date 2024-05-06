@@ -1,5 +1,6 @@
 # SYSTEM OF LECTURES AND MULTIPLE-CHOICE EXAMS ON MOBILE DEVICES 
 ## Introduction
+The system consists of 2 parts: management system and mobile application. The system helps administrators search, manage documents and examinations and statistical data of system. Mobile application helps users search, access and download documents, take multichoice examinations
 ## Languages and technologies used
 1. Java (Spring Boot)
 2. MySQL
@@ -111,7 +112,7 @@
             <img  src="./demo/Picture45.png" alt="drawing" width="200"/>
         </div>
  </div>
-5. asdasd
+5. Account screen
    <div>
         <div style="display: flex; flex-direction: row">
             <img  src="./demo/Picture46.png" alt="drawing" width="200"/>
@@ -123,11 +124,20 @@
             <img  src="./demo/Picture48.png" alt="drawing" width="200"/>
         </div>
     </div>  
-6. asdasd
-   
-7. fsfs
-   
-8. 
+6. Forget and change password screen
+   <div>
+        <div style="display: flex; flex-direction: row">
+            <img  src="./demo/Picture49.png" alt="drawing" width="200"/>
+            <div style="width:20px"> </div>
+            <img src="./demo/Picture50.png" alt="drawing" width="200"/>
+        </div>
+        <div style="height:20px"> </div>
+        <div style="display: flex; flex-direction: row">
+            <img  src="./demo/Picture51.png" alt="drawing" width="200"/>
+            <div style="width:20px"> </div>
+            <img src="./demo/Picture52.png" alt="drawing" width="200"/>
+        </div>
+    </div>
    
  
   
