@@ -1,6 +1,9 @@
 # SYSTEM OF LECTURES AND MULTIPLE-CHOICE EXAMS ON MOBILE DEVICES 
 ## Introduction
 The system consists of 2 parts: management system and mobile application. The system helps administrators search, manage documents and examinations and statistical data of system. Mobile application helps users search, access and download documents, take multichoice examinations
+-Back end: Java (Spring Boot)
+-Front end: ReactJS + Material
+-Mobile Application: React Native
 ## Languages and technologies used
 1. Java (Spring Boot)
 2. MySQL
